@@ -138,7 +138,7 @@ Identify the top 5 users with the most active days and the least 5 users with th
 ### Activity Trends by User:
 -	Plot activity trends for individual users over time to identify consistent patterns and deviations.
 
-Read the full documentation: [link to R Markdown](http://rpubs.com/Sailesh_Basnet/1209928)
+Read the full documentation: [link to R Markdown](https://rpubs.com/Sailesh_Basnet/1209928)
 
 ## Stage 6: Act 🚀
 ### Summary of Data
@@ -171,7 +171,7 @@ Finding from the plot:
 
 ### Calories burnt by week
 
-![image](https://github.com/user-attachments/assets/fb8f812b-53ff-4e08-9286-c6a9487f623b)
+![image](https://github.com/user-attachments/assets/362bfb10-8cf7-4dd5-844d-4c812bd2dd83)
 
 Finding from the plot:
 - There are signification changes in calorie burnt over the week. 
@@ -181,7 +181,7 @@ Finding from the plot:
 
 ### Steps Covered by week
 
-![image](https://github.com/user-attachments/assets/661f30a7-1768-4ab9-a129-9766824c8f67)
+![image](https://github.com/user-attachments/assets/7b742047-a8e0-462b-8694-aa675f01e127)
 
 Finding from the plot:
 -	Highest Step Day: Tuesday with 1,235,001 steps.
@@ -191,7 +191,7 @@ Finding from the plot:
 
 ### Distance Covered by week
 
-![image](https://github.com/user-attachments/assets/7e0a8dbd-e598-4478-bac9-22e86b7e95c7)
+![image](https://github.com/user-attachments/assets/decb21bf-df4e-48d9-8986-986384ceccc0)
 
 Finding from the plot:
 - Tuesday is the day with the highest distance covered, while Sunday is the lowest. 
