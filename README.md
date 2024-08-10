@@ -1,6 +1,7 @@
 # Fitness Tracker Case Study 📊
 ## Company Overview 🏢
-Bellabeat, founded in 2013 by Urška Sršen and Sando Mur, is a high-tech company specializing in health-focused smart products for women. With a mission to empower women through beautifully designed technology, Bellabeat collects data on activity, sleep, stress, and reproductive health to provide valuable insights. The company has experienced rapid growth, expanding globally with multiple product launches and a strong digital marketing presence. Bellabeat invests in various advertising channels, including Google Search, social media, and video ads. Sršen is interested in leveraging consumer data to refine marketing strategies and identify new growth opportunities.
+<div class="justified">Bellabeat, founded in 2013 by Urška Sršen and Sando Mur, is a high-tech company specializing in health-focused smart products for women. With a mission to empower women through beautifully designed technology, Bellabeat collects data on activity, sleep, stress, and reproductive health to provide valuable insights. The company has experienced rapid growth, expanding globally with multiple product launches and a strong digital marketing presence. Bellabeat invests in various advertising channels, including Google Search, social media, and video ads. Sršen is interested in leveraging consumer data to refine marketing strategies and identify new growth opportunities.
+</div>
 
 ### My role 👩‍💻
 As a junior data analyst at Bellabeat, my role is to examine smart device fitness data to identify usage patterns and trends among consumers. I will then use these insights to provide actionable recommendations for optimizing the company's marketing strategy, which I will present to the executive team.
@@ -26,15 +27,15 @@ Created visualizations to illustrate key findings, such as daily and weekly acti
 Summarized insights from the data, provided actionable recommendations for personalized notifications, social awareness campaigns, and promotional strategies, and prepared the cleaned data for further use.
 
 ### Detailed Steps 📝
-## Stage 1: Ask
+## Stage 1: Ask❓
 The final list of questions to analyze are:
 -	What are some trends in smart device usage?
 -	How could these trends apply to Bellabeat customers?
 -	How could these trends help in infuence Bellabeat marketing strategy?
 
 ## Stage 2: Prepare 🛠️
-We are using the Fitbit Fitness Tracker Data (link) from Kaggle. This Kaggle data set contains personal fitness tracker from thirty Fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and hearth rate that can be used to explore users’ habits.
-We move the files in a folder named as ‘fitbit_fitness_tracker’ to organize the files. Then, we extract the files. To avoid future accident, we also make copy of file.
+<div class="justified">We are using the Fitbit Fitness Tracker Data (link) from Kaggle. This Kaggle data set contains personal fitness tracker from thirty Fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and hearth rate that can be used to explore users’ habits.
+We move the files in a folder named as ‘fitbit_fitness_tracker’ to organize the files. Then, we extract the files. To avoid future accident, we also make copy of file.</div>
 
 ### Metadata Description 🗃️
 The dataset includes the following fields: 
@@ -136,7 +137,7 @@ Identify the top 5 users with the most active days and the least 5 users with th
 ### Activity Trends by User:
 -	Plot activity trends for individual users over time to identify consistent patterns and deviations.
 
-Read the full documentation: [link to R Markdown]()
+Read the full documentation: [link to R Markdown](http://rpubs.com/Sailesh_Basnet/1209928)
 
 ## Stage 6: Act 🚀
 ### Summary of Data
@@ -162,7 +163,7 @@ Finding from the plot:
 
 ![image](https://github.com/user-attachments/assets/50e8ce03-442c-49c8-875a-0fa7b90cad55)
 
-Finding from data:
+Finding from the plot:
 - The plot shows high number of calories burned with the increase of distance covered. By analyzing plot, the highest number of distances covered is less than 10 Miles.
 - The plot shows low number of calories burned with the decrease of distance covered.
 
@@ -170,7 +171,7 @@ Finding from data:
 
 ![image](https://github.com/user-attachments/assets/fb8f812b-53ff-4e08-9286-c6a9487f623b)
 
-Finding from data:
+Finding from the plot:
 - There are signification changes in calorie burnt over the week. 
 -	Highest Calorie Burnt Day: Tuesday with 358,114 calories.
 -	Lowest Calorie Burnt Day: Sunday with 273,823 calories.
