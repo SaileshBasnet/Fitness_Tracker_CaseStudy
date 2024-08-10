@@ -1,6 +1,6 @@
 # Fitness Tracker Case Study 📊
 ## Company Overview 🏢
-<div class="justified">Bellabeat, founded in 2013 by Urška Sršen and Sando Mur, is a high-tech company specializing in health-focused smart products for women. With a mission to empower women through beautifully designed technology, Bellabeat collects data on activity, sleep, stress, and reproductive health to provide valuable insights. The company has experienced rapid growth, expanding globally with multiple product launches and a strong digital marketing presence. Bellabeat invests in various advertising channels, including Google Search, social media, and video ads. Sršen is interested in leveraging consumer data to refine marketing strategies and identify new growth opportunities.
+<div align="justify"> Bellabeat, founded in 2013 by Urška Sršen and Sando Mur, is a high-tech company specializing in health-focused smart products for women. With a mission to empower women through beautifully designed technology, Bellabeat collects data on activity, sleep, stress, and reproductive health to provide valuable insights. The company has experienced rapid growth, expanding globally with multiple product launches and a strong digital marketing presence. Bellabeat invests in various advertising channels, including Google Search, social media, and video ads. Sršen is interested in leveraging consumer data to refine marketing strategies and identify new growth opportunities.
 </div>
 
 ### My role 👩‍💻
@@ -34,8 +34,8 @@ The final list of questions to analyze are:
 -	How could these trends help in infuence Bellabeat marketing strategy?
 
 ## Stage 2: Prepare 🛠️
-<div class="justified">We are using the Fitbit Fitness Tracker Data (link) from Kaggle. This Kaggle data set contains personal fitness tracker from thirty Fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and hearth rate that can be used to explore users’ habits.
-We move the files in a folder named as ‘fitbit_fitness_tracker’ to organize the files. Then, we extract the files. To avoid future accident, we also make copy of file.</div>
+<div align="justify"> We are using the Fitbit Fitness Tracker Data (link) from Kaggle. This Kaggle data set contains personal fitness tracker from thirty Fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and hearth rate that can be used to explore users’ habits.
+We move the files in a folder named as ‘fitbit_fitness_tracker’ to organize the files. Then, we extract the files. To avoid future accident, we also make copy of file. </div>
 
 ### Metadata Description 🗃️
 The dataset includes the following fields: 
@@ -94,14 +94,14 @@ Summarize data by user to identify individual activity patterns, such as the ave
 ### User Classification:
 Classify users based on their activity levels into categories: High, Moderate, and Low users. Calculate the percentage of users in each category to understand the distribution of user engagement.
 
-### Trend Analysis
+### <ins> Trend Analysis </ins>
 ### Identify Peak Activity:
 Find dates with the highest recorded values for steps, calories, and distance. This helps in identifying peak activity days.
 
 ### Weekly Patterns:
 Analyze activity patterns across different days of the week. Create a new column to represent the day of the week and aggregate data to find total steps, distance, and calories burned by each day.
 
-### Summary, Correlation & Variance
+### <ins> Summary, Correlation & Variance </ins>
 ### Summary Statistics:
 Provide summary statistics for various types of distances (e.g., VeryActiveDistance, LightActiveDistance).
 
@@ -119,7 +119,8 @@ Identify the top 5 users with the most active days and the least 5 users with th
 
 ## Stage 5: Share 📊
 ### Visualizations 📈
-###Daily Steps Over Time:
+
+### Daily Steps Over Time:
 -	Plot daily steps over time to visualize trends and patterns in user activity.
   
 ### Calories vs. Steps:
@@ -141,6 +142,7 @@ Read the full documentation: [link to R Markdown](http://rpubs.com/Sailesh_Basne
 
 ## Stage 6: Act 🚀
 ### Summary of Data
+
 ### Daily Steps Over Time:
 
 ![image](https://github.com/user-attachments/assets/5c756fb6-a912-485e-bb42-62d9f4325660)
