@@ -34,8 +34,8 @@ The final list of questions to analyze are:
 -	How could these trends help in infuence Bellabeat marketing strategy?
 
 ## Stage 2: Prepare 🛠️
-<div align="justify"> We are using the Fitbit Fitness Tracker Data (link) from Kaggle. This Kaggle data set contains personal fitness tracker from thirty Fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and hearth rate that can be used to explore users’ habits.
-We move the files in a folder named as ‘fitbit_fitness_tracker’ to organize the files. Then, we extract the files. To avoid future accident, we also make copy of file. </div>
+We are using the Fitbit Fitness Tracker Data [link for dataset](https://www.kaggle.com/datasets/arashnic/fitbit) from Kaggle. This Kaggle data set contains personal fitness tracker from thirty Fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and hearth rate that can be used to explore users’ habits.
+We move the files in a folder named as ‘fitbit_fitness_tracker’ to organize the files. Then, we extract the files. To avoid future accident, we also make copy of file. 
 
 ### Metadata Description 🗃️
 The dataset includes the following fields: 
