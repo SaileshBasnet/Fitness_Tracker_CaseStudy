@@ -79,10 +79,10 @@ The following steps were performed to clean and prepare the data for analysis:
 2.	Loading Data: The data was loaded for further analysis in R.
 3.	Data Inspection: The structure and contents of each data frame were inspected to ensure consistency.
 4.	Data Cleaning:
--	Checked for Duplicates and Missing Values: We removed duplicate entries and addressed any missing data.
--	Validated Data: We ensured all values were valid and verify if there are any negative values which may need correction.
+    -	Checked for Duplicates and Missing Values: We removed duplicate entries and addressed any missing data.
+    -	Validated Data: We ensured all values were valid and verify if there are any negative values which may need correction.
 5.	Data Transformation:
--	 Converted Data Types: We changed ‘Id’ column to a factor and ‘ActivityDate’ column to Date format for analysis.
+    -	 Converted Data Types: We changed ‘Id’ column to a factor and ‘ActivityDate’ column to Date format for analysis.
 
 ### Stage 4: Analyze	🔍
 ### Basic Statistics:
@@ -111,7 +111,7 @@ Calculate correlation matrices to understand the relationships between different
 ### Variance Analysis:
 Determine the variance for different types of distances to understand the spread of data.
 
-### Top and Least Active Users
+### <ins> Top and Least Active Users</ins>
 ### Identify Top Users:
 Identify the top 5 users with the most active days and the least 5 users with the fewest active days. This helps in recognizing highly engaged users and those who are less active.
 
